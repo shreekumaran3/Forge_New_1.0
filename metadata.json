@@ -1,0 +1,8 @@
+{
+  "name": "Remix Forge",
+  "description": "A dark luxury Life RPG PWA that transforms your real life into meaningful character growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
